@@ -1,0 +1,15 @@
+SHOW show
+NUM num
+TEXT text
+TRUE true
+FALSE false
+VAR nome_variável
+CONST cadeia de caracteres
+ADD +
+MINUS -
+MULTIPLY #
+DIVIDE /
+EQUAL =
+BIGGER >
+SMALLER <
+SEMI ;

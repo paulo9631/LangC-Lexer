@@ -1,0 +1,6 @@
+num valor@ = 5 ;
+text nome = "João ;
+num altura = 1.80;
+num 2idade = 30;
+text nome = "Maria" §
+text 1valor = "VAlor" ;

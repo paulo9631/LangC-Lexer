@@ -1,0 +1,10 @@
+num a = 0 ;
+num b = 5 + a ;
+text _c = "teSte!tesTe@#$%&?" ;
+text d = "teSte teSte" ;
+show a ;
+show a > b;
+show true ;
+show false ;
+num a = a # b ;
+num b = a / c ;
