@@ -24,7 +24,7 @@ Autores:
 - `parser.py` - Reconhecimento de tokens usando o DFA
 - `lexer.py` - Analisador léxico da LangC
 - `main.py` - Programa principal
-- `tokens_list.txt` - Caso de teste
+- `tokens_list.txt` - Tokens e seus formatos
 
 ---
 
